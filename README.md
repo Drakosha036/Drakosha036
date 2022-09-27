@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandra
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Web Developement
+- 🌱 I’m currently studying at AELION Toulouse
 - 💞️ I’m looking to collaborate on many project in the nearest future
 - 📫 How to reach me https://www.linkedin.com/in/aleksandra-kostina-bb7784129/
 

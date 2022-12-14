@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aleksandra
 - 👀 I’m interested in programming
-- 🌱 I’m currently studying at AELION Toulouse
+- 🌱 I’ve studied at LDNR, Labege and Aelion, Balma
+- Currently working at Inside, Toulouse
 - 💞️ I’m looking to collaborate on many project in the nearest future
 - 📫 How to reach me https://www.linkedin.com/in/aleksandra-kostina-bb7784129/
 
